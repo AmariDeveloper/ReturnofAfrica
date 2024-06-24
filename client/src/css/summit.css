@@ -1,0 +1,19 @@
+.summit-body{
+    padding: 100px 0;
+}
+
+.summit-body h1{
+      font-size: 55px;
+      text-align: center;
+      font-weight: 600;
+      width: 600px;
+      margin: auto;
+}
+
+.summit-body p{
+     font-size: 18px;
+     width: 900px;
+     margin: 10px auto;
+     text-align: center;
+     line-height: 1.7;
+}
